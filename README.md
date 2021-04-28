@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mondr4g
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS and PHPm but I have some experience with HTML, CSS, Python, C++, Java and frameworks like Bootstrap and Angular
+- 🌱 I’m currently learning JS and PHP but I have experience with HTML, CSS, Python, C++, Java and frameworks like Bootstrap and Angular
 - 📫 How to reach me josemena146gmail.com
 
 <!---
